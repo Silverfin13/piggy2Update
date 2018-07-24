@@ -2,7 +2,7 @@
 
 Iniital implelmentation of the piggy project to allow unilateral communication between computers as part of a networking project.
 
-# Debugging:
+# Debugging
 
 middle piggy double printing
 
